@@ -1,0 +1,32 @@
+hl {
+  color: white;
+  font-size: 30
+}
+ul {
+  font-size: 42px
+}
+div {
+  color: yellow;
+}
+#yeoo {
+  color: white;
+}
+
+img {
+  width: 500
+}
+.lit {
+  color: blue;
+  font-size: 70
+}
+  .menu {
+    list-style:none;
+    float: middle;
+  }
+li {
+  color: red;
+}
+b { 
+  font-size: 30
+}
+  
